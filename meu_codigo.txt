@@ -1,1 +1,12 @@
 testando o git hub em 24/06/2005
+
+COMMIT
+git commit -m "COMMIT INICIAL"
+
+git config --global user.email "chavcaroi@gmail.com"
+
+git config --global user.name "Adriano Marques"
+
+git remote add origin https://github.com/CHAVCAR/projeto1_teste-adriano 
+
+git push --set-upstream origin master
